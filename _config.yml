@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Sub-media
+title: sub-media
 email: juliana.tfg@gmail.com
 description: it's velcro for leisure
 baseurl: "/sub-media" # the optional subpath of your site, e.g. "/blog"
