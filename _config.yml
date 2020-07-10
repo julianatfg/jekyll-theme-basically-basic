@@ -21,8 +21,8 @@ baseurl: "/sub-media" # the optional subpath of your site, e.g. "/blog"
 url: "https://julianatfg.github.io/sub-media"
 author:
   name: Jules
-  twitter:  
-  picture:
+  twitter: "juleees"
+  picture: "https://avatars3.githubusercontent.com/u/66850630?s=460&v=4"
 twitter_username: juleees
 github_username: julianatfg
 logo: # path of site logo, e.g. "/assets/images/logo.png"
