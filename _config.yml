@@ -17,7 +17,7 @@ lang: en-US
 title: sub-media
 email: juliana.tfg@gmail.com
 description: it's velcro for leisure
-baseurl: "/sub-media" # the optional subpath of your site, e.g. "/blog"
+baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://julianatfg.github.io/sub-media"
 author:
   name: Jules
@@ -83,3 +83,6 @@ defaults:
     values:
       layout: post
       read_time: true
+
+# Copyright
+copyright: "Juliana Goulart"
